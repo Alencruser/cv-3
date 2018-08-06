@@ -10,21 +10,21 @@
 </head>
 <body class="container-fluid">
 	<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: black">
-		<a class="navbar-brand mx-auto" href="?page=comp">Compétences</a>
-		<a class="navbar-brand mx-auto" href="?page=exp">Expériences</a>
-		<a class="navbar-brand mx-auto" href="?page=formation">Formation(s)</a>
-		<a class="navbar-brand mx-auto" href="?page=contact">Contact</a>
-		<a class="navbar-brand mx-auto" href="?page=interet">Interêts</a>
+		<a class="navbar-brand mx-auto" href="#comp">Compétences</a>
+		<a class="navbar-brand mx-auto" href="#exp">Expériences</a>
+		<a class="navbar-brand mx-auto" href="#formation">Formation(s)</a>
+		<a class="navbar-brand mx-auto" href="#contact">Contact</a>
+		<a class="navbar-brand mx-auto" href="#interet">Interêts</a>
 	</nav>
 	<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img class="d-block w-100" style="height:400px" src="banner.jpg" alt="First slide">
+				<img class="d-block w-100" style="height:400px" src="img/banner.jpg" alt="First slide">
 			</div>
 		</div>
 	</div>
 	<div id="content" class="text-white">
-		<div class="comp">
+		<div class="comp important" id="comp">
 			<h2>Liste de compétences :</h2>
 			<div class="container">
 				<center><ul>
@@ -36,7 +36,7 @@
 			</div>
 		</div>
 		<script>ScrollReveal().reveal('.comp',{delay:200});</script>
-		<div class="exp">
+		<div class="exp important" id="exp">
 			<h2>Expériences professionnelles :</h2>
 			<div class="container">
 				<center><ul>
@@ -50,7 +50,7 @@
 						</div>
 					</div>
 					<script type="text/javascript">ScrollReveal().reveal('.exp',{delay:200});</script>
-					<div class="formation">
+					<div class="formation important" id="formation">
 						<h2>Formation(s)/Diplômes :</h2>
 						<div class="container">
 							<center><ul>
@@ -62,7 +62,7 @@
 								</div>
 							</div>
 							<script>ScrollReveal().reveal('.formation',{delay:200});</script>
-							<div class="contact">
+							<div class="contact" id="contact">
 								<h2>Contact :</h2>
 								<div class="container">
 									<center><ul>
@@ -74,7 +74,7 @@
 								</div>
 							</div>
 							<script>ScrollReveal().reveal('.contact',{delay:200});</script>
-							<div class="interet">
+							<div class="interet" id="interet">
 								<h2>Loisirs/Centre d'interêts :</h2>
 								<div class="container">
 									<center><ul>

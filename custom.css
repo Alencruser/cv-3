@@ -1,9 +1,15 @@
 #content {
 	 background: linear-gradient(to right,#1C2661,#071D56,#081833,#10192A,#16233E); 
 }
+
 ul {
 	list-style-type: none;
 }
+
 h2 {
 	text-decoration: underline;
+}
+
+.important {
+	color:#1CC3FFFF;
 }
