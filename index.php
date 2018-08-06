@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="custom.css">
 	<script src="https://unpkg.com/scrollreveal"></script>
 </head>
-<body>
+<body class="container-fluid p-0">
 	<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: black">
 		<a class="navbar-brand mx-auto" href="#comp">Compétences</a>
 		<a class="navbar-brand mx-auto" href="#exp">Expériences</a>
