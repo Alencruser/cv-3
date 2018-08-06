@@ -62,7 +62,7 @@
 								</div>
 							</div>
 							<script>ScrollReveal().reveal('.formation',{delay:200});</script>
-							<div class="contact" id="contact">
+							<div class="contact important" id="contact">
 								<h2>Contact :</h2>
 								<div class="container">
 									<center><ul>
@@ -74,7 +74,7 @@
 								</div>
 							</div>
 							<script>ScrollReveal().reveal('.contact',{delay:200});</script>
-							<div class="interet" id="interet">
+							<div class="interet important" id="interet">
 								<h2>Loisirs/Centre d'interêts :</h2>
 								<div class="container">
 									<center><ul>
