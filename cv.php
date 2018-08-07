@@ -63,9 +63,19 @@
 									<li><h4>Permis :</h4>
 										<p>Permis B + Véhicule</p></li>
 									</ul>
+									<h2 class="title">Loisirs</h2>
+									<ul>
+										<li><h4>Intelligence Artificielle</h4></li>
+										<li><h4>Psychologie</h4></li>
+										<li><h4>Déduction</h4></li>
+										<li><h4>/</h4></li>
+										<li><h4>Piano</h4></li>
+										<li><h4>Chant</h4></li>
+										<li><h4>Jeux-vidéos</h4></li>
+									</ul>
 								</div>
 							</div>
-							<script>ScrollReveal().reveal('.parttwo',{delay:300});</script>
+							<script>ScrollReveal().reveal('.parttwo',{delay:500});</script>
 							<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 							<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 							<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
