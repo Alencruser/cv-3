@@ -35,7 +35,7 @@
 					</ul></center>
 				</div>
 			</div>
-			<script>ScrollReveal().reveal('.comp',{delay:400});</script>
+			<script>ScrollReveal().reveal('.comp',{delay:200});</script>
 			<div class="exp" id="exp">
 				<h2>Expériences professionnelles :</h2>
 				<div class="container important">

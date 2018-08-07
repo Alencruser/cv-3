@@ -1,0 +1,42 @@
+
+ul {
+	list-style-type: none;
+}
+
+.important {
+	color:#223F8FFF;
+}
+
+.darkest {
+	background-color:#0F1946FF;
+	color:white;
+	text-align: center;
+}
+
+.coh {
+	color :#223F8FFF;
+	margin-top: 5%;
+	font-size:5em;
+}
+
+h1 {
+	font-size:5em;
+}
+
+img {
+	margin-top: 10%;
+}
+
+.restart {
+	text-align:left;
+}
+
+i {
+	font-size:2em;
+	margin-right:1em;
+}
+
+.title {
+	background-image: url("img/banner.jpg");
+	color:white;
+}
