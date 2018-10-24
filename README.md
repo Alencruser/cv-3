@@ -1,2 +1,2 @@
 # Cv version générale + Cv version développeur
-https://curriv.herokuapp.com/
+https://currivitae.herokuapp.com/
